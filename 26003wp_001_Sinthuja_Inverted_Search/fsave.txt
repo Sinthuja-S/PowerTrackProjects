@@ -1,0 +1,4 @@
+#0;apple;2;f1.txt;2;f2.txt;1;#
+#1;ball;2;f1.txt;1;f3.txt;1;#
+#2;cat;3;f1.txt;1;f2.txt;1;f3.txt;2;#
+#3;dog;1;f2.txt;1;#
